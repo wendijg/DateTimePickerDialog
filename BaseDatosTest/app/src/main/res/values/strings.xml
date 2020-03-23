@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaseDatosTest</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="IdStudent">Identificador del Estudiante</string>
+    <string name="Registry">Alta Estudiante</string>
+    <string name="SeeAll">Ver Todos</string>
+    <string name="Update">Editar Estudiante</string>
+    <string name="Delete">Eliminar Estudiante</string>
+</resources>

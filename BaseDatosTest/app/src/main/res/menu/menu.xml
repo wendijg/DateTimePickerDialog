@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/itmRegistry"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/Registry"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/itmSeeAll"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/SeeAll"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/itmUpdate"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/Update"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/itmDelete"
+        android:icon="@mipmap/ic_launcher"
+        android:title="@string/Delete"
+        app:showAsAction="never"/>
+</menu>
